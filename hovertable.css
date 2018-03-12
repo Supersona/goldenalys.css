@@ -1,0 +1,67 @@
+<style type="text/CSS">
+
+.donteditthis {
+text-align:center;
+padding:5px;
+opacity: 1;
+height:15px;
+width:511px;
+border-bottom:4px #dadbab solid;
+}
+
+.goldenboy {
+align:center;
+background: #1e1b18 url('https://imgur.com/lDTNmw2.png');
+border: 2px solid #040602;
+background-color:#040602;
+padding:3px;
+border-radius:0;
+width:590px;
+height:970px;
+opacity: 1;
+}
+.goldentext {
+margin-bottom:40px;
+background-color: #1b1c1b;
+padding:10px;
+opacity: 0;
+height:980px;
+transition:0.6s;
+width:600px;
+overflow:auto;
+color: #FEFABC;
+font-family:times new roman;
+font-size:12px;
+text-align:justify;
+word-spacing:2px;
+letter-spacing:0px;
+line-height:10px;
+text-align:justify;
+line-height:12px;
+background-position: center;
+}
+.goldenboy:hover .goldentext {
+margin-bottom:40px;
+background-color: #1b1c1b;
+opacity:0.9;
+padding:10px;
+height:870px;
+transition:0.6s;
+width:490px;
+overflow:auto;
+color: FEFABC;
+font-family:Times New Roman;
+font-size:14px;
+text-align:justify;
+word-spacing:2px;
+letter-spacing:0px;
+line-height:17px;
+text-align:justify;
+border-radius:0 ;
+line-height:12px;
+background-position: left;
+}
+.shimmertext {
+  font-family:Times New Roman;font-size:14px;color:#FEFABC;font-style:italic;letter-spacing:-0px;font-weight:normal;text-align:left; text-shadow: 1px 1px 0px #000;
+}
+</style>
